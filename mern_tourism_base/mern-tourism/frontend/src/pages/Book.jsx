@@ -1,0 +1,1 @@
+export default function Book(){return <h1>Booking Form Coming Soon</h1>}
